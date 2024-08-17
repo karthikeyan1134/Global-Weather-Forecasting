@@ -6,7 +6,7 @@ import time
 import json
 from db import db_params;
 # API details
-API_KEY = '31b052dc82e095f8b499a8fc6b2cb5a3'
+API_KEY = 'API_KEY'
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather?'
 
 # City list
